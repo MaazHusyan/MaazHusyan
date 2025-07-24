@@ -29,7 +29,7 @@ const maaz = {
   currentlyLearning: ["AI Agents", "Software Design Patterns"],
   challenge: "Working on AI & full-stack side projects 🚀"
 }
-
+```
 ---
 
 ### 📈 GitHub Stats & Streaks
