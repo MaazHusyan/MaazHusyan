@@ -5,7 +5,7 @@
 🌱 Aspiring to succeed in this life and the hereafter</em></p>
 
 [![GitHub Maaz](https://img.shields.io/github/followers/MaazHusyan?label=follow&style=social)](https://github.com/MaazHusyan)
-[![Linktree](https://img.shields.io/badge/-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white)]([https://linktr.ee/Maaz_San](https://linktr.ee/Maaz_San?utm_source=linktree_admin_share))
+[![Linktree](https://img.shields.io/badge/-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/Maaz_San)
 
 ---
 
