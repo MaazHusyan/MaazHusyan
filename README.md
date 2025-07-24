@@ -22,11 +22,17 @@ const maaz = {
     "Build useful products",
     "Earn success in life & akhirah"
   ],
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  tools: [
-    "React", "Tailwind CSS", "Node.js", "Streamlit", "Sanity CMS",
+  languages: [
+    "JavaScript", "TypeScript", "Python", "HTML", "CSS"
+],
+  tools: [ 
     "Git", "GitHub", "NPM", "Colab Notebooks", "Warp Terminal"
   ],
+  frameworks_libraries[
+    "Tailwind CSS", "Streamlit", "Sanity CMS", "React",  "Node.js", "Next.js"
+],
+  Operating_Systems I Use [],
+
   currentlyLearning: ["AI Agents", "Software Design Patterns"],
   challenge: "Working on AI & full-stack side projects 🚀"
 }
@@ -60,7 +66,7 @@ const maaz = {
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff&style=flat)
 ![Warp](https://img.shields.io/badge/-Warp-30363D?logo=warp&logoColor=fff&style=flat)
 
-#### 🖥️ Operating Systems I Use
+#### 🖥️ 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linux-mint&logoColor=fff&style=flat)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-0CC1F3?logo=zorin&logoColor=fff&style=flat)
