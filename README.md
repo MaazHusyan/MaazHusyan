@@ -1,5 +1,5 @@
-<h2> Hi, I'm Maaz!
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZibmxzYWx6aTd6a2oxZno3N2FlaGkwd240M3pzYmtzeXF0M3c0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif)" width="230">
+<h2> Hi, I'm Maaz Hussain!
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>🎓 Computer Science Student | 💡 Passionate about tech & growth <br>
 🌱 Aspiring to succeed in this life and the hereafter</em></p>
