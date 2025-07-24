@@ -1,4 +1,4 @@
-<h2> Hi, I'm Maaz! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NzYnp1a3FjejR2eG1sazdnY2MzaDVwd3RiYTNmdXB4Ym93YzVlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LzCE6RB3JUptC/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Maaz!
 <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZibmxzYWx6aTd6a2oxZno3N2FlaGkwd240M3pzYmtzeXF0M3c0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif)" width="230">
 
 <p><em>🎓 Computer Science Student | 💡 Passionate about tech & growth <br>
@@ -9,7 +9,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZibmxzYWx6aTd6a2oxZno3N2FlaGkwd240M3pzYmtzeXF0M3c0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif)" width="50"> A little more about me...  
 
 ```javascript
 const maaz = {
