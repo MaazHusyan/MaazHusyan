@@ -30,3 +30,27 @@ const maaz = {
   challenge: "Working on AI & full-stack side projects 🚀"
 }
 
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaazHusyan&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaazHusyan&show_icons=true&theme=radical&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazHusyan&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Favorite Projects
+
+- 🌐 [** Secure_Data_Encryption_App **](https://github.com/MaazHusyan/Secure_Data_Encryption_App.git) — A cool web app built with React & Tailwind.
+- 🧮 [** Password_Strength_Checker_Generator_App **](https://github.com/MaazHusyan/Password_Strength_Checker_Generator_App.git) — An AI agent project with Streamlit and Python.
+- 🤖 [** Dad_GPT **](https://github.com/MaazHusyan/Dad_GPT.git) — Simple project but fun to build!
+
