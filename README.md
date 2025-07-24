@@ -22,7 +22,7 @@ const maaz = {
     "Build useful products",
     "Earn success in life & akhirah"
   ],
-  code: ["JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
   tools: [
     "React", "Tailwind CSS", "Node.js", "Streamlit", "Sanity CMS",
     "Git", "GitHub", "NPM", "Colab Notebooks", "Warp Terminal"
