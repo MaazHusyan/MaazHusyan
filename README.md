@@ -1,4 +1,4 @@
-<h2> Hi, I'm Maaz Hussain!
+<h2> Hi, I'm Maaz Hussain!</h2>
 
 <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
 
