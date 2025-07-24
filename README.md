@@ -1,5 +1,7 @@
 <h2> Hi, I'm Maaz Hussain!
 
+<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+
 <p><em>🎓 Computer Science Student | 💡 Passionate about tech & growth <br>
 🌱 Aspiring to succeed in this life and the hereafter</em></p>
 
