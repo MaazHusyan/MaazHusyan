@@ -32,13 +32,13 @@ const maaz = {
     "JavaScript", "TypeScript", "Python", "HTML", "CSS"
 ],
   tools: [ 
-    "Git", "GitHub", "NPM", "Colab Notebooks", "Warp Terminal"
+    "Git", "GitHub", "NPM", "Vercel", "Visual Studio Code", "Colab Notebooks", "Warp Terminal"
   ],
   frameworks_libraries: [
     "Tailwind CSS", "Streamlit", "Sanity CMS", "React",  "Node.js", "Next.js"
 ],
   operating_systems: [
-     "Windows",  "Linux Mint", Zorin OS"
+     "Windows",  "Linux Mint", "Zorin OS"
 ],
 
   currentlyLearning: ["AI Agents", "Python"],
