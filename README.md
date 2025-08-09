@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=auto&section=header'/>
+   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=2b3137&section=header&'/>
 </div>
 
 <h2> Hi, I'm Maaz Hussain!</h2>
@@ -49,5 +49,5 @@ const maaz = {
 
 
 <div align="center">
-   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=auto&section=footer'/>
+   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=2b3137&section=footer&'/>
 </div>
