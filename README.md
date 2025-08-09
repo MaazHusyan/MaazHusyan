@@ -1,3 +1,7 @@
+<div align="center">
+   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=auto&section=header'/>
+</div>
+
 <h2> Hi, I'm Maaz Hussain!</h2>
 
 <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
