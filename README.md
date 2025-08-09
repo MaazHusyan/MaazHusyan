@@ -48,3 +48,6 @@ const maaz = {
 ![States](https://github-readme-stats.vercel.app/api?username=MaazHusyan&show_icons=true&theme=tokyonight&hide_border=true)  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazHusyan&layout=compact&theme=tokyonight&hide_border=true)
 
 
+<div align="center">
+   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=auto&section=footer'/>
+</div>
