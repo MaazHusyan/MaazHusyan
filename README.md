@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontColor=FFFFFF&text=Keep%20coding%2C%20keep%20dreaming&fontSize=30&animation=fadeIn" width="100%" />
+</p>
+
+---
+
+> *"In a world of ones and zeros, I choose to be the undefined that becomes everything"* — 𝓜𝓪𝓪𝔃
+
+---
+
 ![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&section=header&fontColor=FFFFFF&text=𝓘'𝓶%20𝓜𝓪𝓪𝔃%20𝓗𝓾𝓼𝔂𝓪𝓷&fontSize=70&animation=fadeIn)
 
 <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
