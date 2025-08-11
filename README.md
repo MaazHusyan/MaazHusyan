@@ -1,8 +1,4 @@
-<div align="center">
-   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=2b3137&section=header&'/>
-</div>
-
-<h2> Hi, I'm Maaz Hussain!</h2>
+![header](https://capsule-render.vercel.app/api?type=blur&color=2b3137&height=200&section=header&fontColor=FFFFFF&text=I'm%20Maaz%20Husyan&fontSize=70&animation=fadeIn)
 
 <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
 
@@ -48,6 +44,5 @@ const maaz = {
 ![States](https://github-readme-stats.vercel.app/api?username=MaazHusyan&show_icons=true&theme=tokyonight&hide_border=true)  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazHusyan&layout=compact&theme=tokyonight&hide_border=true)
 
 
-<div align="center">
-   <img width="100%" src='https://capsule-render.vercel.app/api?type=slice&color=2b3137&section=footer&'/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=blur&color=2b3137&height=150&section=footer)
+
