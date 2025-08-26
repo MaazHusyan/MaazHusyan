@@ -40,7 +40,13 @@ const 𝓜𝓪𝓪𝔃  = {
 }
 ```
 
-![States](https://github-readme-stats.vercel.app/api?username=MaazHusyan&show_icons=true&theme=tokyonight&hide_border=true)  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazHusyan&layout=compact&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazHusyan&layout=compact&theme=tokyonight&hide_border=true" 
+     alt="Most Used Language" 
+     width="500" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaazHusyan&show_icons=true&theme=tokyonight&hide_border=true" 
+     alt="Most Used Language" 
+     width="500" height="200" />
 
 
 ![footer](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=170&section=header&fontColor=FFFFFF&text=̷̷S̷̷e̷̷e̷Y̷̷o̷̷u̷S̷̷o̷̷o̷̷n̷&fontSize=40&animation=fadeIn)
