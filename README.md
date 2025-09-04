@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
 
-<p><em>🎓  𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 | 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉 &amp; 𝒈𝒓𝒐𝒘𝒕𝒉 <br> 🌱 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝒕𝒐 𝒔𝒖𝒄𝒄𝒆𝒆𝒅 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒍𝒊𝒇𝒆 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒉𝒆𝒓𝒆𝒂𝒇𝒕𝒆𝒓</em></p>
+<p><em>🎓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 | 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉 &amp; 𝒈𝒓𝒐𝒘𝒕𝒉 <br> 🌱 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝒕𝒐 𝒔𝒖𝒄𝒄𝒆𝒆𝒅 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒍𝒊𝒇𝒆 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒉𝒆𝒓𝒆𝒂𝒇𝒕𝒆𝒓</em></p>
 
 [![GitHub Maaz](https://img.shields.io/github/followers/MaazHusyan?label=follow&style=social)](https://github.com/MaazHusyan)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/Maaz_San)
