@@ -43,7 +43,7 @@ const 𝓜𝓪𝓪𝔃  = {
 }
 ```
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: left">
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -64,9 +64,7 @@ const 𝓜𝓪𝓪𝔃  = {
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
+     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -83,6 +81,7 @@ const 𝓜𝓪𝓪𝔃  = {
       <br>Nodejs
       </td>
   </tr>
+ 
 
 </table>
 </div>
