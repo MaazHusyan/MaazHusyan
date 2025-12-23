@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&section=header&fontColor=FFFFFF&text=𝓘'𝓶%20𝓜𝓪𝓪𝔃%20𝓗𝓾𝓼𝔂𝓪𝓷&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&section=header&fontColor=FFFFFF&text=𝓘%20'𝓶%20𝓜𝓪𝓪𝔃%20𝓗𝓾𝓼𝔂𝓪𝓷&fontSize=70&animation=fadeIn)
 
 
 
-<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230"> -->
 
 <p><em>🎓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 | 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒆𝒄𝒉 &amp; 𝒈𝒓𝒐𝒘𝒕𝒉 <br> 🌱 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝒕𝒐 𝒔𝒖𝒄𝒄𝒆𝒆𝒅 𝒊𝒏 𝒕𝒉𝒊𝒔 𝒍𝒊𝒇𝒆 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒉𝒆𝒓𝒆𝒂𝒇𝒕𝒆𝒓</em></p>
 
