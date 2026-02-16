@@ -35,7 +35,7 @@ const 𝓜𝓪𝓪𝔃  = {
     "Tailwind CSS", "Streamlit", "Sanity CMS", "React",  "Node.js", "Next.js"
 ],
   operating_systems: [
-     "Windows",  "Linux Mint", "Zorin OS"
+     "Windows",  "Linux Mint", "Zorin OS", "Ubuntu (Current)"
 ],
 
   currentlyLearning: ["AI Agents", "Python"],
