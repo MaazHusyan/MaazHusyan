@@ -9,7 +9,7 @@
 [![GitHub Maaz](https://img.shields.io/github/followers/MaazHusyan?label=follow&style=social)](https://github.com/MaazHusyan)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/Maaz_San)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mazhusyan120@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=MaazHusyan&label=Views&color=grey&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=MaazHusyan&label=Views&color=green&style=flat-square)
 
 ---
 
